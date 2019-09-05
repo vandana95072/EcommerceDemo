@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ModernLogin</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
+    <!--for facebook login-->
+
+    <!--facebook login ends-->
+
+    <!--error messages-->
+    <string name="facebook_app_id">367833427484599</string>
+    <string name="fb_login_protocol_scheme">fb367833427484599</string>
+
+
+
+    <string name="rs_2500"><strike>Rs. 2500</strike></string>
+    <string name="rs"><strike>Rs 1000</strike></string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="offer"><u>Rs 40000</u></string>
+    <string name="offer1"><strike>Rs 40000</strike></string>
+</resources>
